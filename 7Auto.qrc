@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/checked.png</file>
+        <file>img/down_arrow.png</file>
+        <file>img/left_arrow.png</file>
+        <file>img/right_arrow.png</file>
+        <file>img/up_arrow.png</file>
+        <file>img/axe.png</file>
+        <file>img/drive.png</file>
+        <file>img/paw.png</file>
+        <file>img/run.png</file>
+        <file>img/AppIcon.png</file>
+        <file>img/edit.png</file>
+    </qresource>
+</RCC>
