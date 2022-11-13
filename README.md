@@ -1,10 +1,10 @@
-This application makes some actions and movements automatic in the game 7 Days to Die.
+**This application makes some actions and movements automatic in the game 7 Days to Die.**
 
 Easy Anti-Cheat (EAC) have to be disable in order to use this software
 
 Under GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
-Last version 1.2 by Amir Hammoutene (13 November 2022) : https://github.com/AmirHammoutene/7Auto/raw/main/7Auto_v1.2.zip
+**Last version 1.2** by Amir Hammoutene (13 November 2022) : https://github.com/AmirHammoutene/7Auto/raw/main/7Auto_v1.2.zip
 
 Youtube tutorial : https://www.youtube.com/watch?v=wx5KBpL0W_4
 
