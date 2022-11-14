@@ -29,7 +29,7 @@ void AutomineProcess::AllPhases()
         return;
     }
 
-    if(m_phaseOneTimer.elapsed() < m_walkDelay)
+    if(m_phaseOneTimer.elapsed() < m_walkDelay || m_walkDelay == 0)
     {
         if(lastActionPhaseTwo)
         {

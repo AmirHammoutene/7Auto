@@ -40,6 +40,8 @@ bool AutomineProcessManager::configure(QString ingameModForward, QString ingameK
     m_durationPrimaryAct = (quint32)(simpleHitDur*1000);
     m_durationSecondaryAct = (quint32)(powerHitDur*1000);
 
+    m_hitSequence.clear();
+
     for(int i = 0; i< hitSequence.length(); i++)
     {
         m_hitSequence.append(hitSequence.at(i) == '2');
