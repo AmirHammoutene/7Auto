@@ -4,7 +4,7 @@ Easy Anti-Cheat (EAC) have to be disable in order to use this software
 
 Under GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
-**Last version 1.2** by Amir Hammoutene (13 November 2022) : https://github.com/AmirHammoutene/7Auto/raw/master/7Auto_v1.2.zip
+**Last version 1.2.1** by Amir Hammoutene (14 November 2022) : https://github.com/AmirHammoutene/7Auto/raw/master/7Auto_v1.2.1.zip
 
 Youtube tutorial : https://www.youtube.com/watch?v=wx5KBpL0W_4
 
